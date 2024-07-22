@@ -1,0 +1,494 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "42726075-d2f2-44cb-9d9d-0364136d6c73")
+	(paper "A4")
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 60.96 152.4) (xy 78.74 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02c0b048-c92b-42b7-aaa2-54986e27383a")
+	)
+	(polyline
+		(pts
+			(xy 71.12 124.46) (xy 76.2 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15011b0e-627d-4dcb-be4a-750f3dd17367")
+	)
+	(polyline
+		(pts
+			(xy 78.74 92.075) (xy 92.075 92.075)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1734c5c9-37ff-4cfc-938d-9e025e515d90")
+	)
+	(polyline
+		(pts
+			(xy 73.66 84.455) (xy 92.075 84.455)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18403e8c-a059-44d6-ba87-317cb7779ee4")
+	)
+	(polyline
+		(pts
+			(xy 76.2 86.995) (xy 92.075 86.995)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ec17b2f-b25d-417d-8bf7-d7bc7e0026e4")
+	)
+	(polyline
+		(pts
+			(xy 229.87 86.36) (xy 246.38 86.36)
+		)
+		(stroke
+			(width 1.016)
+			(type default)
+		)
+		(uuid "3d30d830-72d0-4e33-ad83-325c5e17d2d8")
+	)
+	(polyline
+		(pts
+			(xy 73.66 81.915) (xy 92.075 81.915)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4110f959-aee0-4322-8d73-7ac5f09901e1")
+	)
+	(polyline
+		(pts
+			(xy 60.96 96.52) (xy 73.66 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b7a68dd-acee-4c53-91eb-a36d4aabf76d")
+	)
+	(polyline
+		(pts
+			(xy 114.3 117.475) (xy 114.3 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7983013e-338b-4925-832d-477e0584cb31")
+	)
+	(polyline
+		(pts
+			(xy 189.23 86.36) (xy 196.85 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f533002-afd7-4aa3-93de-b41c3c0623cd")
+	)
+	(polyline
+		(pts
+			(xy 102.235 95.25) (xy 102.235 146.685)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f538ae1-d04a-4ed3-9f20-f7b6e72cad3d")
+	)
+	(polyline
+		(pts
+			(xy 76.2 124.46) (xy 76.2 86.995)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "850ee811-d6e4-4da9-858b-59d803e16359")
+	)
+	(polyline
+		(pts
+			(xy 60.96 43.18) (xy 83.82 43.18)
+		)
+		(stroke
+			(width 1.016)
+			(type default)
+		)
+		(uuid "a93d4761-6bba-457a-8c0d-30362a9d0b33")
+	)
+	(polyline
+		(pts
+			(xy 73.66 96.52) (xy 73.66 84.455)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8298ae0-f139-477c-a64e-b7e71de73742")
+	)
+	(polyline
+		(pts
+			(xy 193.04 117.475) (xy 114.3 117.475)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfbf2178-0608-4049-99de-52b251b892ab")
+	)
+	(polyline
+		(pts
+			(xy 114.3 95.25) (xy 114.935 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0f2f145-ff43-4fe1-ace7-75a71ea218a8")
+	)
+	(polyline
+		(pts
+			(xy 193.04 147.32) (xy 193.04 117.475)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c300e394-d70d-4ecf-83e9-bc92b2557b03")
+	)
+	(polyline
+		(pts
+			(xy 60.96 68.58) (xy 73.66 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8ca5de6-4a39-4117-9ad2-3ae877bc61d2")
+	)
+	(polyline
+		(pts
+			(xy 126.365 85.725) (xy 135.89 85.725)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e82846ee-8386-4334-875a-969d40227ab2")
+	)
+	(polyline
+		(pts
+			(xy 78.74 152.4) (xy 78.74 92.075)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8ecfd79-dd07-468c-b675-dedd24bfb1b9")
+	)
+	(polyline
+		(pts
+			(xy 73.66 68.58) (xy 73.66 81.915)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee86c59b-2fff-4c2e-ae36-37bde71d380a")
+	)
+	(rectangle
+		(start 83.82 33.02)
+		(end 238.76 137.16)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 03c2ae5b-8e02-4c8b-a2ac-08b9ff88646c)
+	)
+	(rectangle
+		(start 28.194 36.068)
+		(end 61.214 48.768)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 37a10724-880f-4f14-b680-94b958de2663)
+	)
+	(rectangle
+		(start 92.456 77.343)
+		(end 126.238 95.123)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3dfc5893-421a-4a00-a05d-ea377caad2f7)
+	)
+	(rectangle
+		(start 196.85 80.391)
+		(end 229.87 92.583)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4a60e058-b550-48a9-9c70-033a4f814b3c)
+	)
+	(rectangle
+		(start 92.71 146.812)
+		(end 140.97 162.052)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 67d434fb-2134-44e0-bd0c-23360d33c3a7)
+	)
+	(rectangle
+		(start 17.78 117.856)
+		(end 71.12 130.556)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 783250b9-2fc2-4435-a418-8d444026fc17)
+	)
+	(rectangle
+		(start 176.53 147.066)
+		(end 209.55 162.306)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ca9dc0fc-ba11-4034-9d15-5f9626575bf3)
+	)
+	(rectangle
+		(start 27.94 144.78)
+		(end 60.96 160.02)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d0a73f5e-1911-4ef9-9622-0a286a1f6fb4)
+	)
+	(rectangle
+		(start 135.89 79.883)
+		(end 188.976 92.075)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d0be0586-ec65-4b49-ad9e-17d83e11b54f)
+	)
+	(rectangle
+		(start 27.686 61.976)
+		(end 60.706 74.676)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d82dd1ce-c07c-49ad-bc63-8e98f3315317)
+	)
+	(rectangle
+		(start 246.38 78.486)
+		(end 279.4 93.726)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ed4a532f-024e-45f1-8530-e6c8a7438f82)
+	)
+	(rectangle
+		(start 27.432 89.916)
+		(end 60.452 102.616)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid efd3fd9e-e34d-4727-8f27-bb458bd1d75b)
+	)
+	(text "CAN"
+		(exclude_from_sim no)
+		(at 44.45 96.774 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "05ef3451-d2e8-4302-8ac4-80f9ff0436fa")
+	)
+	(text "TEMP_SENSOR"
+		(exclude_from_sim no)
+		(at 116.84 154.94 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "2141bb79-4cc3-4b78-84d6-1bd1cb510502")
+	)
+	(text "HALL/ENCODER"
+		(exclude_from_sim no)
+		(at 44.45 124.714 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "31ae14c0-d688-4876-9b86-a19433a9784c")
+	)
+	(text "SERVO"
+		(exclude_from_sim no)
+		(at 193.04 154.94 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "333bd3e3-5fd3-46e3-9cd3-9ed5685e3203")
+	)
+	(text "MOSFETs"
+		(exclude_from_sim no)
+		(at 213.36 86.995 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "470bbf57-5ac1-4085-ae5f-cee76f3e2af1")
+	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 109.22 86.995 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "5d541c3e-8271-4b5a-9637-edb131881967")
+	)
+	(text "USB"
+		(exclude_from_sim no)
+		(at 44.45 68.834 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "69efd21c-adef-4073-a599-acaf661fa0ec")
+	)
+	(text "V_SUPLY"
+		(exclude_from_sim no)
+		(at 44.45 43.434 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "81a260d8-402e-4e16-a41c-0dbba94040dc")
+	)
+	(text "MOSFET DRIVER"
+		(exclude_from_sim no)
+		(at 162.56 86.995 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "a76efd9e-194a-4798-a9de-1680a8f13be8")
+	)
+	(text "COM"
+		(exclude_from_sim no)
+		(at 44.45 152.654 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "b650635c-efba-4760-abff-03e4f4148282")
+	)
+	(text "MOTOR"
+		(exclude_from_sim no)
+		(at 262.89 86.36 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "fb637ab6-1d01-4d1a-983e-c9a2dc278a2d")
+	)
+)
