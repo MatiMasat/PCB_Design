@@ -70,7 +70,7 @@
 			(xy 229.87 85.09) (xy 246.38 85.09)
 		)
 		(stroke
-			(width 1.524)
+			(width 1.27)
 			(type default)
 		)
 		(uuid "3d30d830-72d0-4e33-ad83-325c5e17d2d8")
@@ -150,7 +150,7 @@
 			(xy 213.36 78.105) (xy 213.36 43.18)
 		)
 		(stroke
-			(width 1.524)
+			(width 1.27)
 			(type default)
 		)
 		(uuid "8e36bbba-8598-48ea-8061-135e6437ab1b")
@@ -160,7 +160,7 @@
 			(xy 162.56 78.105) (xy 162.56 43.18)
 		)
 		(stroke
-			(width 1.524)
+			(width 1.27)
 			(type default)
 		)
 		(uuid "968367ce-c938-4a84-b3e8-969e62129934")
@@ -170,7 +170,7 @@
 			(xy 60.96 43.18) (xy 213.36 43.18)
 		)
 		(stroke
-			(width 1.524)
+			(width 1.27)
 			(type default)
 		)
 		(uuid "a93d4761-6bba-457a-8c0d-30362a9d0b33")

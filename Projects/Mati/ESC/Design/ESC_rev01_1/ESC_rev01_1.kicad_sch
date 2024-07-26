@@ -2572,7 +2572,7 @@
 		)
 	)
 	(sheet
-		(at 116.84 31.75)
+		(at 257.81 69.85)
 		(size 22.86 27.94)
 		(fields_autoplaced yes)
 		(stroke
@@ -2583,8 +2583,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "0b005788-b573-4e26-9afe-c22d445830f3")
-		(property "Sheetname" "OVERVIEW"
-			(at 116.84 31.0384 0)
+		(property "Sheetname" "[09] USB"
+			(at 257.81 69.1384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2592,8 +2592,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "OVERVIEW.kicad_sch"
-			(at 116.84 60.2746 0)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 257.81 98.3746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2604,7 +2604,7 @@
 		(instances
 			(project "ESC_rev01_1"
 				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
-					(page "7")
+					(page "09")
 				)
 			)
 		)
@@ -2621,7 +2621,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "0c65314a-0535-429e-88b6-cfc69fe23401")
-		(property "Sheetname" "FILTERS"
+		(property "Sheetname" "[08] FILTERS"
 			(at 226.06 69.1384 0)
 			(effects
 				(font
@@ -2642,13 +2642,13 @@
 		(instances
 			(project "ESC_rev01_1"
 				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
-					(page "6")
+					(page "08")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 149.86 31.75)
+		(at 126.365 33.02)
 		(size 22.86 27.94)
 		(fields_autoplaced yes)
 		(stroke
@@ -2659,8 +2659,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "14068b23-bf97-4397-a497-ea2418270b40")
-		(property "Sheetname" "BLOCK DIAGRAM"
-			(at 149.86 31.0384 0)
+		(property "Sheetname" "[01] BLOCK DIAGRAM"
+			(at 126.365 32.3084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2669,7 +2669,7 @@
 			)
 		)
 		(property "Sheetfile" "BLOCK DIAGRAM.kicad_sch"
-			(at 149.86 60.2746 0)
+			(at 126.365 61.5446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2680,7 +2680,45 @@
 		(instances
 			(project "ESC_rev01_1"
 				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
-					(page "8")
+					(page "01")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 161.925 33.02)
+		(size 22.86 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ca654f1-bd86-4d50-9c46-afb70d1d54f0")
+		(property "Sheetname" "[02] INPUT PROTECTION"
+			(at 161.925 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INPUT PROTECTION.kicad_sch"
+			(at 161.925 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESC_rev01_1"
+				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
+					(page "02")
 				)
 			)
 		)
@@ -2697,7 +2735,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "86a38e6a-9305-4f0a-a2ba-94adfb4463fb")
-		(property "Sheetname" "MECHANICAL"
+		(property "Sheetname" "[10] MECHANICAL"
 			(at 127.635 105.9684 0)
 			(effects
 				(font
@@ -2718,7 +2756,7 @@
 		(instances
 			(project "ESC_rev01_1"
 				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
-					(page "9")
+					(page "10")
 				)
 			)
 		)
@@ -2735,7 +2773,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "8d9db801-04c1-4418-8ee6-b4bad926371a")
-		(property "Sheetname" "CAN"
+		(property "Sheetname" "[07] CAN"
 			(at 193.04 69.1384 0)
 			(effects
 				(font
@@ -2756,7 +2794,7 @@
 		(instances
 			(project "ESC_rev01_1"
 				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
-					(page "5")
+					(page "07")
 				)
 			)
 		)
@@ -2773,7 +2811,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "8f967752-6d56-4bbb-9fc0-618cfc84739c")
-		(property "Sheetname" "MOSFETs"
+		(property "Sheetname" "[06] MOSFETs"
 			(at 160.02 69.1384 0)
 			(effects
 				(font
@@ -2794,7 +2832,7 @@
 		(instances
 			(project "ESC_rev01_1"
 				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
-					(page "4")
+					(page "06")
 				)
 			)
 		)
@@ -2811,7 +2849,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "b6de0180-543b-43f2-8da5-bfad1d73fe5f")
-		(property "Sheetname" "MCU"
+		(property "Sheetname" "[04] MCU"
 			(at 58.42 32.9434 0)
 			(effects
 				(font
@@ -3172,7 +3210,7 @@
 		(instances
 			(project "ESC_rev01_1"
 				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
-					(page "2")
+					(page "04")
 				)
 			)
 		)
@@ -3189,7 +3227,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "d40de179-eec6-4619-a99d-16f7ec21796a")
-		(property "Sheetname" "MOSFET Driver"
+		(property "Sheetname" "[05] MOSFET DRIVER"
 			(at 127 69.1384 0)
 			(effects
 				(font
@@ -3210,7 +3248,45 @@
 		(instances
 			(project "ESC_rev01_1"
 				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
-					(page "3")
+					(page "05")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 199.39 33.02)
+		(size 22.86 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f5aa4233-834f-4d1f-bd5a-991f00bf776c")
+		(property "Sheetname" "[03] STEP DOWN"
+			(at 199.39 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STEP DOWN.kicad_sch"
+			(at 199.39 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESC_rev01_1"
+				(path "/f8b31c4e-d526-42a0-803b-62608aba82c2"
+					(page "03")
 				)
 			)
 		)
